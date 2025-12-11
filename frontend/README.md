@@ -212,7 +212,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sushil Chaudhari**
 - Email: chaudharisushil96@gmail.com
 - LinkedIn: [linkedin.com/in/Sushil-Chaudhari](https://www.linkedin.com/in/sushil-chaudhari-54460319b/)
-- GitHub: [github.com/SushilChaudhari](https://github.com/SushilChaudhari)
+- GitHub: [github.com/SushilChaudhari](https://github.com/Sushil9731)
 - Phone: +91 8830889788
 - Location: Pune, Maharashtra, India
 
